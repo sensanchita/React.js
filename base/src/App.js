@@ -3,8 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <h2>Hello Sanchita!</h2> 
-    <p>jhjhh</p>
+    <h2>Hello Sanchita!.this is practice file</h2> 
   );
 }
 
