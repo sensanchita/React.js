@@ -1,9 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Home from './Header'
+import Contact from './Header'
 
 function App() {
+  let name = 'Pooja';
   return (
-    <h2>Hello Sanchita!.this is practice file</h2> 
+    <div>
+    <h2>Hello from reactJS</h2> 
+    <Home name = {'Pooja'} age ={24} />
+    <Contact />
+    </div>
   );
 }
 
